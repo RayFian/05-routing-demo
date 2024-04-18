@@ -51,3 +51,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ![alt text](image-2.png)
 
 Routing could be complicated and will take longer time to done it if the routing located inside deeper folder
+
+## To Do Praktikum 3
+![alt text](image-3.png)
